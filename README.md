@@ -20,7 +20,7 @@ In order to run this you need to have:
 ## Usage
 Run the recommendation_system.ipynb
 ```bash
-python recommendation_system.ipynb
+recommendation_system.ipynb
 ```
 
 ## Purpose
