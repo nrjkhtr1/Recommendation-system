@@ -11,9 +11,11 @@ to recommend movies.
 
 ## Requirements
 In order to run this you need to have:
-  1. Pandas
+  1. Python 3.5 (or higher)
   2. Numpy
   3. Matplotlib
+  4. Pandas
+  
   
 ## Usage
 Run the recommendation_system.ipynb
@@ -31,4 +33,9 @@ We created this recommendation system as a part of our CS 386 (IIT Goa) course.
 4. Pulaksh Garg
 5. Chetan Rajput
 
+## Contributing
+Any suggestions in improving are appreciated.
 
+
+This dataset is available 
+<a href="https://old.datahub.io/dataset/movielens/resource/b9792332-c0aa-44ee-b7aa-faa979b1acf0">here</a>
