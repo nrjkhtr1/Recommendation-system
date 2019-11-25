@@ -4,7 +4,7 @@ A recommender system is a simple algorithm whose aim is to provide the most rele
 An example of recommendation in action is when you visit Amazon and you notice that some items are being recommended to you or when Netflix
 recommends certain movies to you.
 
-I am using user based collaborative filtering which is memory based method, The main idea is people with similar characteristic share similar
+We am using user based collaborative filtering which is memory based method, The main idea is people with similar characteristic share similar
 taste. For example, if you want to recommend a movie to your friend Ujjawal, suppose Ujjawal and I have seen many movie together and we rated
 them almost identically. It makes sense to think that in future as well we would continue to like similar movies and use this similarity metric
 to recommend movies. 
